@@ -1,6 +1,6 @@
 # Reemplazá los corchetes con tu información real
 
-# Calculadora POO — [Tu nombre y apellido]
+# Calculadora POO — Santino Musacchio
 
 ## Descripción
 Calculadora desarrollada en Python con Tkinter aplicando 
